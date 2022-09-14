@@ -1,2 +1,4 @@
 Welcome to GIT Session!
 Hello World!
+
+Modified the file to see the head pointer.
