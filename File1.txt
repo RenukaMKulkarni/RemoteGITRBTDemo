@@ -2,4 +2,4 @@ Welcome to GIT Session!
 Hello World!
 
 Modified the file to see the head pointer.
-WI2 adding a new line....
+WI2 adding a new line.
