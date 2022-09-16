@@ -7,4 +7,4 @@ WI2 - adding a new line.
 Line added to fix bug1 & bug2.
 
 Updated first letters to small to fix CR2.
-Updated by Team member.
+Updated by Team member. to check remote push/pull
