@@ -1,9 +1,10 @@
-welcome to GIT Session!
-hello World!
+Welcome to GIT Session!
+Hello World!
 
-modified - the file to see the head pointer.
-wI2 - adding a new line.
+Modified - the file to see the head pointer.
+WI2 - adding a new line.
 
-line added to fix bug1 & bug2.
+Line added to fix bug1 & bug2.
 
-updated first letters to small to fix CR2.
+Updated first letters to small to fix CR2.
+Updated by Team member.
